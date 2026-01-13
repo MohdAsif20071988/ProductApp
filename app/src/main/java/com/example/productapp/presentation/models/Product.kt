@@ -1,0 +1,3 @@
+package com.example.productapp.presentation.models
+
+data class Product(val id: Int, val title: String, val thumbnail: String)
